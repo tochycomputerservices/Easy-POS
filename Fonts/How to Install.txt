@@ -1,0 +1,2 @@
+Right-click on it and, in the contextual menu, choose Install.
+A progress bar is shown for a few seconds, showing the progress of the installation process. You will not receive any notification that the font has been installed.

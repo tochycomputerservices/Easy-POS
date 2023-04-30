@@ -1,0 +1,78 @@
+C:\Users\Lenovo\Desktop\EsyPOS-Files\Esy POS\Source files\Esy POS\Esy POS\bin\Debug\Esy POS.exe.config
+C:\Users\Lenovo\Desktop\EsyPOS-Files\Esy POS\Source files\Esy POS\Esy POS\bin\Debug\Esy POS.exe
+C:\Users\Lenovo\Desktop\EsyPOS-Files\Esy POS\Source files\Esy POS\Esy POS\bin\Debug\Esy POS.pdb
+C:\Users\Lenovo\Desktop\EsyPOS-Files\Esy POS\Source files\Esy POS\Esy POS\bin\Debug\Esy POS.xml
+C:\Users\Lenovo\Desktop\EsyPOS-Files\Esy POS\Source files\Esy POS\Esy POS\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Lenovo\Desktop\EsyPOS-Files\Esy POS\Source files\Esy POS\Esy POS\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Lenovo\Desktop\EsyPOS-Files\Esy POS\Source files\Esy POS\Esy POS\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Lenovo\Desktop\EsyPOS-Files\Esy POS\Source files\Esy POS\Esy POS\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Lenovo\Desktop\EsyPOS-Files\Esy POS\Source files\Esy POS\Esy POS\bin\Debug\FlashControlV71.dll
+C:\Users\Lenovo\Desktop\EsyPOS-Files\Esy POS\Source files\Esy POS\Esy POS\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Lenovo\Desktop\EsyPOS-Files\Esy POS\Source files\Esy POS\Esy POS\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Lenovo\Desktop\EsyPOS-Files\Esy POS\Source files\Esy POS\Esy POS\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Lenovo\Desktop\EsyPOS-Files\Esy POS\Source files\Esy POS\Esy POS\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Lenovo\Desktop\EsyPOS-Files\Esy POS\Source files\Esy POS\Esy POS\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Lenovo\Desktop\EsyPOS-Files\Esy POS\Source files\Esy POS\Esy POS\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Lenovo\Desktop\EsyPOS-Files\Esy POS\Source files\Esy POS\Esy POS\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Lenovo\Desktop\EsyPOS-Files\Esy POS\Source files\Esy POS\Esy POS\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Lenovo\Desktop\EsyPOS-Files\Esy POS\Source files\Esy POS\Esy POS\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Lenovo\Desktop\EsyPOS-Files\Esy POS\Source files\Esy POS\Esy POS\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Lenovo\Desktop\EsyPOS-Files\Esy POS\Source files\Esy POS\Esy POS\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Lenovo\Desktop\EsyPOS-Files\Esy POS\Source files\Esy POS\Esy POS\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Lenovo\Desktop\EsyPOS-Files\Esy POS\Source files\Esy POS\Esy POS\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Lenovo\Desktop\EsyPOS-Files\Esy POS\Source files\Esy POS\Esy POS\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Lenovo\Desktop\EsyPOS-Files\Esy POS\Source files\Esy POS\Esy POS\bin\Debug\stdole.dll
+C:\Users\Lenovo\Desktop\EsyPOS-Files\Esy POS\Source files\Esy POS\Esy POS\obj\x86\Debug\Esy POS.vbprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\EsyPOS-Files\Esy POS\Source files\Esy POS\Esy POS\obj\x86\Debug\Esy_POS.frmCashTransfer.resources
+C:\Users\Lenovo\Desktop\EsyPOS-Files\Esy POS\Source files\Esy POS\Esy POS\obj\x86\Debug\Esy_POS.frmChartOfAccounts.resources
+C:\Users\Lenovo\Desktop\EsyPOS-Files\Esy POS\Source files\Esy POS\Esy POS\obj\x86\Debug\Esy_POS.frmExpenses.resources
+C:\Users\Lenovo\Desktop\EsyPOS-Files\Esy POS\Source files\Esy POS\Esy POS\obj\x86\Debug\Esy_POS.frmIncome.resources
+C:\Users\Lenovo\Desktop\EsyPOS-Files\Esy POS\Source files\Esy POS\Esy POS\obj\x86\Debug\Esy_POS.frmDataBackup.resources
+C:\Users\Lenovo\Desktop\EsyPOS-Files\Esy POS\Source files\Esy POS\Esy POS\obj\x86\Debug\Esy_POS.frmResetDB.resources
+C:\Users\Lenovo\Desktop\EsyPOS-Files\Esy POS\Source files\Esy POS\Esy POS\obj\x86\Debug\Esy_POS.frmAbout.resources
+C:\Users\Lenovo\Desktop\EsyPOS-Files\Esy POS\Source files\Esy POS\Esy POS\obj\x86\Debug\Esy_POS.frmAuthentication.resources
+C:\Users\Lenovo\Desktop\EsyPOS-Files\Esy POS\Source files\Esy POS\Esy POS\obj\x86\Debug\Esy_POS.frmBadStock.resources
+C:\Users\Lenovo\Desktop\EsyPOS-Files\Esy POS\Source files\Esy POS\Esy POS\obj\x86\Debug\Esy_POS.frmBarcodePrint.resources
+C:\Users\Lenovo\Desktop\EsyPOS-Files\Esy POS\Source files\Esy POS\Esy POS\obj\x86\Debug\Esy_POS.frmCategory.resources
+C:\Users\Lenovo\Desktop\EsyPOS-Files\Esy POS\Source files\Esy POS\Esy POS\obj\x86\Debug\Esy_POS.frmImportItems.resources
+C:\Users\Lenovo\Desktop\EsyPOS-Files\Esy POS\Source files\Esy POS\Esy POS\obj\x86\Debug\Esy_POS.frmBusinessInfo.resources
+C:\Users\Lenovo\Desktop\EsyPOS-Files\Esy POS\Source files\Esy POS\Esy POS\obj\x86\Debug\Esy_POS.frmChangePassword.resources
+C:\Users\Lenovo\Desktop\EsyPOS-Files\Esy POS\Source files\Esy POS\Esy POS\obj\x86\Debug\Esy_POS.frmCrvDefault.resources
+C:\Users\Lenovo\Desktop\EsyPOS-Files\Esy POS\Source files\Esy POS\Esy POS\obj\x86\Debug\Esy_POS.frmBadStockReport.resources
+C:\Users\Lenovo\Desktop\EsyPOS-Files\Esy POS\Source files\Esy POS\Esy POS\obj\x86\Debug\Esy_POS.frmCashBankStatementReport.resources
+C:\Users\Lenovo\Desktop\EsyPOS-Files\Esy POS\Source files\Esy POS\Esy POS\obj\x86\Debug\Esy_POS.frmChartOfAccountsReport.resources
+C:\Users\Lenovo\Desktop\EsyPOS-Files\Esy POS\Source files\Esy POS\Esy POS\obj\x86\Debug\Esy_POS.frmCollectionDueReport.resources
+C:\Users\Lenovo\Desktop\EsyPOS-Files\Esy POS\Source files\Esy POS\Esy POS\obj\x86\Debug\Esy_POS.frmDateWiseSalesReport.resources
+C:\Users\Lenovo\Desktop\EsyPOS-Files\Esy POS\Source files\Esy POS\Esy POS\obj\x86\Debug\Esy_POS.frmDateWiseSalesReturnReport.resources
+C:\Users\Lenovo\Desktop\EsyPOS-Files\Esy POS\Source files\Esy POS\Esy POS\obj\x86\Debug\Esy_POS.frmDefaultReport.resources
+C:\Users\Lenovo\Desktop\EsyPOS-Files\Esy POS\Source files\Esy POS\Esy POS\obj\x86\Debug\Esy_POS.frmItemListReport.resources
+C:\Users\Lenovo\Desktop\EsyPOS-Files\Esy POS\Source files\Esy POS\Esy POS\obj\x86\Debug\Esy_POS.frmItemWiseSales.resources
+C:\Users\Lenovo\Desktop\EsyPOS-Files\Esy POS\Source files\Esy POS\Esy POS\obj\x86\Debug\Esy_POS.frmLedgerBook.resources
+C:\Users\Lenovo\Desktop\EsyPOS-Files\Esy POS\Source files\Esy POS\Esy POS\obj\x86\Debug\Esy_POS.frmTransactionReport.resources
+C:\Users\Lenovo\Desktop\EsyPOS-Files\Esy POS\Source files\Esy POS\Esy POS\obj\x86\Debug\Esy_POS.frmCollection.resources
+C:\Users\Lenovo\Desktop\EsyPOS-Files\Esy POS\Source files\Esy POS\Esy POS\obj\x86\Debug\Esy_POS.frmCustomer.resources
+C:\Users\Lenovo\Desktop\EsyPOS-Files\Esy POS\Source files\Esy POS\Esy POS\obj\x86\Debug\Esy_POS.frmEmployee.resources
+C:\Users\Lenovo\Desktop\EsyPOS-Files\Esy POS\Source files\Esy POS\Esy POS\obj\x86\Debug\Esy_POS.frmFirstInvoiceList.resources
+C:\Users\Lenovo\Desktop\EsyPOS-Files\Esy POS\Source files\Esy POS\Esy POS\obj\x86\Debug\Esy_POS.frmFirstSale.resources
+C:\Users\Lenovo\Desktop\EsyPOS-Files\Esy POS\Source files\Esy POS\Esy POS\obj\x86\Debug\Esy_POS.frmItemInformation.resources
+C:\Users\Lenovo\Desktop\EsyPOS-Files\Esy POS\Source files\Esy POS\Esy POS\obj\x86\Debug\Esy_POS.frmListOfItem.resources
+C:\Users\Lenovo\Desktop\EsyPOS-Files\Esy POS\Source files\Esy POS\Esy POS\obj\x86\Debug\Esy_POS.frmOutOfStock.resources
+C:\Users\Lenovo\Desktop\EsyPOS-Files\Esy POS\Source files\Esy POS\Esy POS\obj\x86\Debug\Esy_POS.frmPayment.resources
+C:\Users\Lenovo\Desktop\EsyPOS-Files\Esy POS\Source files\Esy POS\Esy POS\obj\x86\Debug\Esy_POS.frmPOS.resources
+C:\Users\Lenovo\Desktop\EsyPOS-Files\Esy POS\Source files\Esy POS\Esy POS\obj\x86\Debug\Esy_POS.frmReOrder.resources
+C:\Users\Lenovo\Desktop\EsyPOS-Files\Esy POS\Source files\Esy POS\Esy POS\obj\x86\Debug\Esy_POS.frmPOSList.resources
+C:\Users\Lenovo\Desktop\EsyPOS-Files\Esy POS\Source files\Esy POS\Esy POS\obj\x86\Debug\Esy_POS.frmSalesChart.resources
+C:\Users\Lenovo\Desktop\EsyPOS-Files\Esy POS\Source files\Esy POS\Esy POS\obj\x86\Debug\Esy_POS.frmSalesReturn.resources
+C:\Users\Lenovo\Desktop\EsyPOS-Files\Esy POS\Source files\Esy POS\Esy POS\obj\x86\Debug\Esy_POS.frmScreenLock.resources
+C:\Users\Lenovo\Desktop\EsyPOS-Files\Esy POS\Source files\Esy POS\Esy POS\obj\x86\Debug\Esy_POS.frmStock.resources
+C:\Users\Lenovo\Desktop\EsyPOS-Files\Esy POS\Source files\Esy POS\Esy POS\obj\x86\Debug\Esy_POS.frmSupplier.resources
+C:\Users\Lenovo\Desktop\EsyPOS-Files\Esy POS\Source files\Esy POS\Esy POS\obj\x86\Debug\Esy_POS.frmUserList.resources
+C:\Users\Lenovo\Desktop\EsyPOS-Files\Esy POS\Source files\Esy POS\Esy POS\obj\x86\Debug\Esy_POS.frmUserManagement.resources
+C:\Users\Lenovo\Desktop\EsyPOS-Files\Esy POS\Source files\Esy POS\Esy POS\obj\x86\Debug\Esy_POS.frmUserPermission.resources
+C:\Users\Lenovo\Desktop\EsyPOS-Files\Esy POS\Source files\Esy POS\Esy POS\obj\x86\Debug\Esy_POS.frmUserTrail.resources
+C:\Users\Lenovo\Desktop\EsyPOS-Files\Esy POS\Source files\Esy POS\Esy POS\obj\x86\Debug\Esy_POS.frmMDIParent.resources
+C:\Users\Lenovo\Desktop\EsyPOS-Files\Esy POS\Source files\Esy POS\Esy POS\obj\x86\Debug\Esy_POS.Resources.resources
+C:\Users\Lenovo\Desktop\EsyPOS-Files\Esy POS\Source files\Esy POS\Esy POS\obj\x86\Debug\Esy POS.vbproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\EsyPOS-Files\Esy POS\Source files\Esy POS\Esy POS\obj\x86\Debug\Esy POS.exe
+C:\Users\Lenovo\Desktop\EsyPOS-Files\Esy POS\Source files\Esy POS\Esy POS\obj\x86\Debug\Esy POS.xml
+C:\Users\Lenovo\Desktop\EsyPOS-Files\Esy POS\Source files\Esy POS\Esy POS\obj\x86\Debug\Esy POS.pdb
